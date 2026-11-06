@@ -91,8 +91,6 @@ const WorldClockHorizontal = () => {
               display: "flex",
               alignItems: "center",
               overflow: "hidden",
-              boxShadow:
-                "0 0 0 1px rgba(251,235,192,0.28), 0 0.2vw 0.5vw rgba(0,0,0,0.55)",
             }}
           >
             <img
