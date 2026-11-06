@@ -77,3 +77,7 @@ body {
     height: 100%;
   }
 }
+
+body{
+  opacity: .6 !important;
+}
