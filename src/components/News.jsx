@@ -10,7 +10,7 @@ const NewsTicker = ({ newsItems = [] }) => {
   const items =
     newsItems.length > 0
       ? newsItems
-      : [{ description: "Welcome to Zelora Gold Updates" }];
+      : [{ description: "Welcome to Zeona Updates" }];
 
   return (
     <Box
@@ -65,7 +65,7 @@ const NewsTicker = ({ newsItems = [] }) => {
             ...gradientText(gradients.goldText),
           }}
         >
-          Zelora Gold Updates
+          Zeona Updates
         </Typography>
 
         <Box

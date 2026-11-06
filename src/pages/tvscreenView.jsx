@@ -291,11 +291,8 @@ function TvScreen() {
           >
             <img src={mainLogo} alt="Zeona" className="object-contain w-full" />
           </Box>
-
           <CommodityTable items={commodities} />
         </Grid>
-        
-
         <Grid
           md={12}
           sx={{
